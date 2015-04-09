@@ -1,4 +1,4 @@
-FROM customercentrix/ubuntu
+FROM aviata/ubuntu
 
 # Java SE 8
 
